@@ -24,4 +24,4 @@ Thomas et al. (2024). *"I Never Said That"*. EMNLP 2024. [arXiv](https://arxiv.o
 
 ## Note
 This repository is educational in nature. It documents the full learning journey of NLP classification, from classical machine learning baselines to state-of-the-art deep learning approaches, with a focus on understanding each concept, methodology, 
-and model before moving to the next.
+and model.
