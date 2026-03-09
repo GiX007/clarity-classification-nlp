@@ -9,15 +9,15 @@ Predict the clarity of politician responses to journalist questions into three c
 [ailsntua/QEvasion](https://huggingface.co/datasets/ailsntua/QEvasion)
 
 ## Contents
-- `clarity_classification_classical_ml.ipynb` - EDA, preprocessing, TF-IDF and GloVe representations, Logistic Regression training and hyperparameter tuning
+- `01_clarity_classification_classical_ml.ipynb` - EDA, preprocessing, TF-IDF and GloVe representations, Logistic Regression training and hyperparameter tuning
 - ...
 - ...
 - ...
 
 ## Results
-| Notebook | Best Model | Val F1 |
+| Notebook | Best Model | Val F1 | Test F1 |
 |---|---|---|
-| Classical ML | TF-IDF + LR (v3) | 0.631 |
+| Classical ML | TF-IDF + LR (v3) | 0.631 | 0.58
 
 ## Reference
 Thomas et al. (2024). *"I Never Said That"*. EMNLP 2024. [arXiv](https://arxiv.org/abs/2409.13879)
