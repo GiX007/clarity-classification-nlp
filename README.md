@@ -16,7 +16,7 @@ Predict the clarity of politician responses to journalist questions into three c
 
 ## Results
 | Notebook | Best Model | Val F1 | Test F1 |
-|---|---|---|
+|---|---|---|---|
 | Classical ML | TF-IDF + LR (v3) | 0.631 | 0.58
 
 ## Reference
