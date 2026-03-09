@@ -17,7 +17,7 @@ Predict the clarity of politician responses to journalist questions into three c
 ## Results
 | Notebook | Best Model | Val F1 | Test F1 |
 |---|---|---|---|
-| Classical ML | TF-IDF + LR (v3) | 0.631 | 0.58
+| Classical ML | TF-IDF + LR (v3) | 0.63 | 0.58
 
 ## Reference
 Thomas et al. (2024). *"I Never Said That"*. EMNLP 2024. [arXiv](https://arxiv.org/abs/2409.13879)
