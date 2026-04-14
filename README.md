@@ -14,14 +14,6 @@ Predict the clarity of politician responses to journalist questions into three c
 - `03_clarity_classification_distilbert.ipynb` - DistilBERT fine-tuning
 - `04_clarity_classification_deberta.ipynb` - DeBERTa fine-tuning
 
-## Results
-| Notebook | Best Model | Val F1 | Test F1 |
-|---|---|---|---|
-| Classical ML | TF-IDF + LR (v3) | 0.63 | 0.58
-
-## Reference
-Thomas et al. (2024). *"I Never Said That"*. EMNLP 2024. [arXiv](https://arxiv.org/abs/2409.13879)
-
 ## Note
 This repository is educational in nature. It documents the full learning journey of NLP classification, from classical machine learning baselines to state-of-the-art deep learning approaches, with a focus on understanding each concept, methodology, 
 and model.
