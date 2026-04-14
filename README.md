@@ -10,9 +10,9 @@ Predict the clarity of politician responses to journalist questions into three c
 
 ## Contents
 - `01_clarity_classification_classical_ml.ipynb` - EDA, preprocessing, TF-IDF and GloVe representations, Logistic Regression training and hyperparameter tuning
-- ...
-- ...
-- ...
+- `02_clarity_classification_bert.ipynb` - BERT fine-tuning
+- `03_clarity_classification_distilbert.ipynb` - DistilBERT fine-tuning
+- `04_clarity_classification_deberta.ipynb` - DeBERTa fine-tuning
 
 ## Results
 | Notebook | Best Model | Val F1 | Test F1 |
