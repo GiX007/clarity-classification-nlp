@@ -17,5 +17,7 @@ Predict the clarity of politician responses to journalist questions into three c
 ## Reference
 Thomas et al. (2024). *"I Never Said That"*. EMNLP 2024. [arXiv](https://arxiv.org/abs/2409.13879)
 
-## Note
-This repository documents the full learning journey of NLP classification, from classical machine learning baselines to state-of-the-art transformer-based approaches, with a focus on understanding each concept, methodology, and model.
+## Notes
+This repository documents the full learning journey of NLP classification, from classical machine learning baselines to state-of-the-art transformer-based approaches, with a focus on understanding each concept, methodology, and model. 
+
+Most of the notebooks are large and will not display on GitHub. Download the .ipynb files and open them in Google Colab to view all outputs.
