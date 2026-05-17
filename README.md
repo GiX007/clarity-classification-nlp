@@ -13,7 +13,7 @@ Predict the clarity of politician responses to journalist questions into three c
 - `02_clarity_classification_bert.ipynb` - Fine-tuning BERT-base-uncased
 - `03_clarity_classification_distilbert.ipynb` - Fine-tuning DistilBERT-base-uncased
 - `04_clarity_classification_deberta.ipynb` - Fine-tuning DeBERTa-v3-base
-- `05_clarity_classification_prompting.ipynb` - Prompting techniques on Qwen3.5 (zero-shot, few-shot, CoT, Self-Consistency), with cross-family appendix (Gemma-3, Llama-3.2, Phi-4-mini)
+- `05_clarity_classification_prompting.ipynb` - Prompting techniques on Qwen3.5 (zero-shot, few-shot, CoT, Self-Consistency), with cross-family extension (Gemma-3, Llama-3.2, Phi-4-mini)
 
 ## Reference
 Thomas et al. (2024). *"I Never Said That"*. EMNLP 2024. [arXiv](https://arxiv.org/abs/2409.13879)
