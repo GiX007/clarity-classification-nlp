@@ -17,6 +17,7 @@ Predict the clarity of politician responses to journalist questions into three c
 - `06_clarity_classification_d3_agentic.ipynb` - D3-Agentic Prompting (4-agent pipeline) on Qwen3.5-0.8B, with DSPy optimization and cross-family extension (Llama-3.2, Gemma-3)
 - `splits/` - Train and validation data splits used by the encoder fine-tuning notebooks (BERT, DistilBERT, DeBERTa)
 - `reports/` - Generated reports for all notebooks
+- `gpu_vs_cpu_performance.ipynb` - GPU vs CPU benchmarks: memory landscape, computation speed, LLM inference, and trade-offs between model sizes (0.8B/2B), devices (CPU/GPU), quantization levels (32/16/8/4-bit), inference time, and accuracy on Qwen3.5
 
 ## Reference
 Thomas et al. (2024). *"I Never Said That"*. EMNLP 2024. [arXiv](https://arxiv.org/abs/2409.13879)
